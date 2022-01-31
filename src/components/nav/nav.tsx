@@ -21,6 +21,7 @@ import { NavRoutes } from './navRoutes';
 import { Icon } from '../icon/icon';
 import { Settings } from '../menu/settings';
 import { ConnectBtn } from '../buttons/connectBtn';
+import { BASE_URL } from '../../constants/enviroment';
 
 const Nav = memo(() => {
   const { t, i18n } = useTranslation();
@@ -38,7 +39,7 @@ const Nav = memo(() => {
       gap={4}
       w="full"
     >
-      <NavLink to="/">
+      <NavLink to={BASE_URL}>
         <Flex alignItems={'center'} gap={4} fontWeight={'bold'} color={`ton${colorMode}.accent`}>
           <IconButton
             h={12}

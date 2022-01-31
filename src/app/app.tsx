@@ -14,6 +14,7 @@ import { PoolsList } from '../components/list/poolsList';
 import { theme } from '../styles/theme';
 import { useQuery } from 'react-query';
 import { coins_markets } from '../api/queries/queries';
+import { BASE_URL } from '../constants/enviroment';
 
 const App = memo(() => {
   const { data, status, error } = useQuery('coins_markets', coins_markets);
@@ -21,7 +22,7 @@ const App = memo(() => {
   return (
     <ChakraProvider theme={theme}>
       <Routes>
-        <Route path="/" element={<Layout />}>
+        <Route path={BASE_URL} element={<Layout />}>
           <Route index element={<SwapRoute />} />
           <Route path="swap" element={<SwapRoute />} />
           <Route path="pools" element={<PoolsRoute />}>
