@@ -4,10 +4,6 @@
 
 ▶️ [Live DEMO](https://zubarevegor.github.io/TonShift/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🎨 [Figma](https://www.figma.com/file/oBBa98DHNBjIafbUxDHXIa/TonShift?node-id=0%3A1) 
 
-|Light|Dark|
-|-|-|
-|▶️ [Live DEMO](https://zubarevegor.github.io/TonShift/)|🎨 [Figma](https://www.figma.com/file/oBBa98DHNBjIafbUxDHXIa/TonShift?node-id=0%3A1) |
-
 ## About
 
 TONSHIFT it's example of DEX app UI made for TON [contest](https://github.com/ton-blockchain/TIPs/issues/42).
@@ -25,19 +21,33 @@ It contains:
 
 ## Installation
 
-``npm i``
+```bash
+npm i
+```
 
 ## Local dev
 
-``npm run dev``
+```bash
+npm run dev
+```
 
 ## Build
 
-``npm run build``
+```bash
+npm run build
+```
 
 ## Screenshots
+
+### Desktop
+
 |Light|Dark|
 |-|-|
 |![img](https://github.com/ZubarevEgor/TonShift/blob/main/src/assets/docs/swap%20desktop.png)|![img](https://github.com/ZubarevEgor/TonShift/blob/main/src/assets/docs/swap%20desktop%20dark.png)|
 |![img](https://github.com/ZubarevEgor/TonShift/blob/main/src/assets/docs/pools%20desktop.png)|![img](https://github.com/ZubarevEgor/TonShift/blob/main/src/assets/docs/pools%20desktop%20dark.png)|
 |![img](https://github.com/ZubarevEgor/TonShift/blob/main/src/assets/docs/pool%20statistics%20desktop.png)|![img](https://github.com/ZubarevEgor/TonShift/blob/main/src/assets/docs/pools%20statistics%20desktop%20dark.png)|
+
+### Mobile
+|Light|Dark|
+|-|-|
+|-|-|
