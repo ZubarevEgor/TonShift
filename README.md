@@ -2,33 +2,40 @@
 
 # 💎 TONSHIFT
 
-[Live DEMO](https://zubarevegor.github.io/TonShift/)
+[▶️ Live DEMO](https://zubarevegor.github.io/TonShift/)
+<br>[🎨 Figma](https://www.figma.com/file/oBBa98DHNBjIafbUxDHXIa/TonShift?node-id=0%3A1) 
 
 ## About
 
-It's example of simple DEX frontend made for TON [contest](https://github.com/ton-blockchain/TIPs/issues/42).
+TONSHIFT it's example of DEX frontend made for TON [contest](https://github.com/ton-blockchain/TIPs/issues/42).
 
-The interface was based on Uniswap, Pancakeswap, Sushiswap and TON assets.
+Inspired by Uniswap, TON assets and Telegram.
 
 It contains:
-UI for exchanging one token for another token
-UI for creating a pool with two tokens
-UI with a list of pools
-UI with a pool statistics
-UI for adding and removing liquidity from a pool
-
+<ul>
+<li>UI for exchanging one token for another token</li>
+<li>UI for creating a pool with two tokens</li>
+<li>UI with a list of pools</li>
+<li>UI with a pool statistics</li>
+<li>UI for adding and removing liquidity from a pool</li>
+</ul>
 
 ## Features
 ...
 
+## Screenshots
+|Light|Dark|
+|-|-|
+|![img](https://github.com/ZubarevEgor/TonShift/blob/main/src/assets/docs/swap%20desktop.png)|![img](https://github.com/ZubarevEgor/TonShift/blob/main/src/assets/docs/swap%20desktop%20dark.png)|
+
 ## Installation
 
-npm i
+```npm i```
 
 ## Local dev
 
-npm run dev
+```npm run dev```
 
 ## Build
 
-npm run build
+```npm run build```
