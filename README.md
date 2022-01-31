@@ -46,8 +46,15 @@ npm run build
 |![img](https://github.com/ZubarevEgor/TonShift/blob/main/src/assets/docs/swap%20desktop.png)|![img](https://github.com/ZubarevEgor/TonShift/blob/main/src/assets/docs/swap%20desktop%20dark.png)|
 |![img](https://github.com/ZubarevEgor/TonShift/blob/main/src/assets/docs/pools%20desktop.png)|![img](https://github.com/ZubarevEgor/TonShift/blob/main/src/assets/docs/pools%20desktop%20dark.png)|
 |![img](https://github.com/ZubarevEgor/TonShift/blob/main/src/assets/docs/pool%20statistics%20desktop.png)|![img](https://github.com/ZubarevEgor/TonShift/blob/main/src/assets/docs/pools%20statistics%20desktop%20dark.png)|
+|-|-|
 
 ### Mobile
 |Light|Dark|
-|-|-|
-|-|-|
+|https://github.com/ZubarevEgor/TonShift/blob/main/src/assets/docs/swap%20mobile.png|https://github.com/ZubarevEgor/TonShift/blob/main/src/assets/docs/swap%20mobile%20dark.png|
+|https://github.com/ZubarevEgor/TonShift/blob/main/src/assets/docs/swap%20%20details%20mobile.png|https://github.com/ZubarevEgor/TonShift/blob/main/src/assets/docs/swap%20details%20mobile%20dark.png|
+|https://github.com/ZubarevEgor/TonShift/blob/main/src/assets/docs/settings%20mobile.png|https://github.com/ZubarevEgor/TonShift/blob/main/src/assets/docs/settings%20mobile%20dark.png|
+|https://github.com/ZubarevEgor/TonShift/blob/main/src/assets/docs/pools%20mobile.png|https://github.com/ZubarevEgor/TonShift/blob/main/src/assets/docs/pools%20mobile%20dark.png|
+|https://github.com/ZubarevEgor/TonShift/blob/main/src/assets/docs/pool%20statistics%20mobile.png|https://github.com/ZubarevEgor/TonShift/blob/main/src/assets/docs/pool%20statistics%20mobile%20dark.png|
+|https://github.com/ZubarevEgor/TonShift/blob/main/src/assets/docs/add%20liquidity%20mobile.png|https://github.com/ZubarevEgor/TonShift/blob/main/src/assets/docs/add%20liquidity%20mobile%20dark.png|
+|https://github.com/ZubarevEgor/TonShift/blob/main/src/assets/docs/tokens%20mobile.png|https://github.com/ZubarevEgor/TonShift/blob/main/src/assets/docs/tokens%20mobile%20dark.png|
+|https://github.com/ZubarevEgor/TonShift/blob/main/src/assets/docs/wallets%20mobile.png|https://github.com/ZubarevEgor/TonShift/blob/main/src/assets/docs/wallet%20mobile%20dark.png|
