@@ -2,14 +2,13 @@
 
 # 💎 TONSHIFT
 
-[▶️ Live DEMO](https://zubarevegor.github.io/TonShift/)
-<br>[🎨 Figma](https://www.figma.com/file/oBBa98DHNBjIafbUxDHXIa/TonShift?node-id=0%3A1) 
+▶️ [Live DEMO](https://zubarevegor.github.io/TonShift/) 🎨 [Figma](https://www.figma.com/file/oBBa98DHNBjIafbUxDHXIa/TonShift?node-id=0%3A1) 
 
 ## About
 
-TONSHIFT it's example of DEX frontend made for TON [contest](https://github.com/ton-blockchain/TIPs/issues/42).
+TONSHIFT it's example of DEX app UI made for TON [contest](https://github.com/ton-blockchain/TIPs/issues/42).
 
-Inspired by Uniswap, TON assets and Telegram.
+❤️ Inspired by Uniswap, TON assets and Telegram.
 
 It contains:
 <ul>
@@ -27,15 +26,18 @@ It contains:
 |Light|Dark|
 |-|-|
 |![img](https://github.com/ZubarevEgor/TonShift/blob/main/src/assets/docs/swap%20desktop.png)|![img](https://github.com/ZubarevEgor/TonShift/blob/main/src/assets/docs/swap%20desktop%20dark.png)|
+|![img](https://github.com/ZubarevEgor/TonShift/blob/main/src/assets/docs/swap%20desktop.png)|![img](https://github.com/ZubarevEgor/TonShift/blob/main/src/assets/docs/swap%20desktop%20dark.png)|
+|![img](https://github.com/ZubarevEgor/TonShift/blob/main/src/assets/docs/swap%20desktop.png)|![img](https://github.com/ZubarevEgor/TonShift/blob/main/src/assets/docs/swap%20desktop%20dark.png)|
+
 
 ## Installation
 
-```npm i```
+``npm i``
 
 ## Local dev
 
-```npm run dev```
+``npm run dev``
 
 ## Build
 
-```npm run build```
+``npm run build``
