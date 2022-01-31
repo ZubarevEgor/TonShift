@@ -2,7 +2,11 @@
 
 # 💎 TONSHIFT
 
-▶️ [Live DEMO](https://zubarevegor.github.io/TonShift/) 🎨 [Figma](https://www.figma.com/file/oBBa98DHNBjIafbUxDHXIa/TonShift?node-id=0%3A1) 
+▶️ [Live DEMO](https://zubarevegor.github.io/TonShift/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🎨 [Figma](https://www.figma.com/file/oBBa98DHNBjIafbUxDHXIa/TonShift?node-id=0%3A1) 
+
+|Light|Dark|
+|-|-|
+|▶️ [Live DEMO](https://zubarevegor.github.io/TonShift/)|🎨 [Figma](https://www.figma.com/file/oBBa98DHNBjIafbUxDHXIa/TonShift?node-id=0%3A1) |
 
 ## About
 
@@ -19,17 +23,6 @@ It contains:
 <li>UI for adding and removing liquidity from a pool</li>
 </ul>
 
-## Features
-...
-
-## Screenshots
-|Light|Dark|
-|-|-|
-|![img](https://github.com/ZubarevEgor/TonShift/blob/main/src/assets/docs/swap%20desktop.png)|![img](https://github.com/ZubarevEgor/TonShift/blob/main/src/assets/docs/swap%20desktop%20dark.png)|
-|![img](https://github.com/ZubarevEgor/TonShift/blob/main/src/assets/docs/swap%20desktop.png)|![img](https://github.com/ZubarevEgor/TonShift/blob/main/src/assets/docs/swap%20desktop%20dark.png)|
-|![img](https://github.com/ZubarevEgor/TonShift/blob/main/src/assets/docs/swap%20desktop.png)|![img](https://github.com/ZubarevEgor/TonShift/blob/main/src/assets/docs/swap%20desktop%20dark.png)|
-
-
 ## Installation
 
 ``npm i``
@@ -41,3 +34,10 @@ It contains:
 ## Build
 
 ``npm run build``
+
+## Screenshots
+|Light|Dark|
+|-|-|
+|![img](https://github.com/ZubarevEgor/TonShift/blob/main/src/assets/docs/swap%20desktop.png)|![img](https://github.com/ZubarevEgor/TonShift/blob/main/src/assets/docs/swap%20desktop%20dark.png)|
+|![img](https://github.com/ZubarevEgor/TonShift/blob/main/src/assets/docs/pools%20desktop.png)|![img](https://github.com/ZubarevEgor/TonShift/blob/main/src/assets/docs/pools%20desktop%20dark.png)|
+|![img](https://github.com/ZubarevEgor/TonShift/blob/main/src/assets/docs/pool%20statistics%20desktop.png)|![img](https://github.com/ZubarevEgor/TonShift/blob/main/src/assets/docs/pools%20statistics%20desktop%20dark.png)|
